@@ -28,7 +28,7 @@
 // field.renderField();
 // последовательно вызываются команды, renderField - отображает новую доску в document.
 // В результате мы должны увидеть 2 нарисованных состояния поля.
-
+window.onload;
 let arr = [];
 function creatField(width, height) {
     if (width && height){
